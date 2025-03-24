@@ -1,0 +1,1505 @@
+D:.
+├───ali
+│   ├───0.2.9
+│   │   ├───plugin
+│   │   │   └───js
+│   │   └───sync_drive
+│   └───0.3.6
+│       ├───plugin
+│       │   └───js
+│       └───sync_drive
+├───AllDup_4.5.58_Portable
+│   ├───data
+│   ├───db
+│   ├───dep
+│   ├───export
+│   ├───lang
+│   ├───log
+│   ├───mediainfo
+│   ├───profile
+│   ├───sound
+│   ├───temp
+│   └───update
+├───AutoIt3
+│   ├───AuMFCompiler
+│   ├───Aut2Exe
+│   │   └───Icons
+│   ├───AutoItX
+│   │   └───Examples
+│   │       ├───C++
+│   │       │   └───AutoItX
+│   │       └───VBScript
+│   ├───Examples
+│   │   ├───COM
+│   │   ├───GUI
+│   │   │   ├───Advanced
+│   │   │   │   └───Images
+│   │   │   └───Simple
+│   │   └───Helpfile
+│   │       └───Extras
+│   ├───Extras
+│   │   ├───AutoUpdateIt
+│   │   ├───Editors
+│   │   │   ├───Crimson
+│   │   │   ├───Notepad++
+│   │   │   ├───PSPad
+│   │   │   ├───Sublime Text
+│   │   │   └───TextPad
+│   │   ├───Geshi
+│   │   ├───OtherExe
+│   │   └───Prettify
+│   ├───Icons
+│   ├───Include
+│   ├───MyInclude
+│   ├───SciTE
+│   │   ├───AccAu3Wrapper
+│   │   ├───api
+│   │   ├───au3Stripper
+│   │   ├───AutoIt3Wrapper
+│   │   ├───CodeWizard
+│   │   ├───Defs
+│   │   │   ├───beta
+│   │   │   │   └───api
+│   │   │   └───Production
+│   │   │       └───api
+│   │   ├───Koda
+│   │   │   ├───Forms
+│   │   │   ├───Language
+│   │   │   └───Templates
+│   │   ├───lua
+│   │   ├───Obfuscator
+│   │   ├───Properties
+│   │   ├───SciTE Jump
+│   │   │   ├───Includes
+│   │   │   └───Languages
+│   │   ├───SciTEConfig
+│   │   └───Tidy
+│   ├───SciTE-AutoIt3Installer
+│   │   └───api
+│   └───Template
+├───autoruns
+├───AxureRP-Pro9.0-Chinese
+│   ├───AxureRP 9 汉化补丁
+│   │   └───lang
+│   └───keygen
+├───BCompare
+│   └───Helpers
+├───blat
+│   ├───docs
+│   │   └───cgi
+│   └───full
+│       ├───新建文件夹
+│       └───新建文件夹 (2)
+├───code
+├───cradio
+│   ├───Data
+│   │   ├───chs
+│   │   ├───cht
+│   │   └───eng
+│   ├───Language
+│   ├───Record
+│   ├───Skins
+│   │   └───Default
+│   ├───temp
+│   └───User
+├───DataSplitter
+├───DBeaver
+│   ├───configuration
+│   │   ├───.settings
+│   │   ├───org.eclipse.core.runtime
+│   │   │   └───.manager
+│   │   ├───org.eclipse.e4.ui.css.swt.theme
+│   │   ├───org.eclipse.equinox.app
+│   │   │   └───.manager
+│   │   ├───org.eclipse.equinox.launcher
+│   │   │   └───org.jkiss.dbeaver.ui.app.standalone_7.3.0.202011291229
+│   │   ├───org.eclipse.equinox.simpleconfigurator
+│   │   ├───org.eclipse.osgi
+│   │   │   ├───.manager
+│   │   │   ├───117
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   │               └───obj
+│   │   │   ├───127
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───org
+│   │   │   │               └───eclipse
+│   │   │   │                   └───gef
+│   │   │   │                       └───internal
+│   │   │   │                           └───icons
+│   │   │   ├───129
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           ├───icons
+│   │   │   │           │   └───full
+│   │   │   │           └───org
+│   │   │   │               └───eclipse
+│   │   │   │                   └───jface
+│   │   │   │                       ├───action
+│   │   │   │                       │   └───images
+│   │   │   │                       └───wizard
+│   │   │   │                           └───images
+│   │   │   ├───131
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───org
+│   │   │   │               └───eclipse
+│   │   │   │                   └───jface
+│   │   │   │                       └───text
+│   │   │   │                           └───source
+│   │   │   │                               └───projection
+│   │   │   │                                   └───images
+│   │   │   ├───138
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   │               └───full
+│   │   │   │                   ├───elcl16
+│   │   │   │                   └───etool16
+│   │   │   ├───140
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   ├───145
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   │               └───full
+│   │   │   │                   ├───dlcl16
+│   │   │   │                   ├───dtool16
+│   │   │   │                   ├───elcl16
+│   │   │   │                   ├───etool16
+│   │   │   │                   ├───eview16
+│   │   │   │                   ├───obj16
+│   │   │   │                   └───progress
+│   │   │   ├───148
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   │               └───full
+│   │   │   │                   ├───dtool16
+│   │   │   │                   └───etool16
+│   │   │   ├───150
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   │               └───full
+│   │   │   │                   ├───etool16
+│   │   │   │                   └───obj16
+│   │   │   ├───151
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   │               └───full
+│   │   │   │                   └───elcl16
+│   │   │   ├───158
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   │               └───eview16
+│   │   │   ├───161
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   │               └───full
+│   │   │   │                   └───etool16
+│   │   │   ├───168
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   ├───171
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   │               └───formats
+│   │   │   ├───174
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   ├───175
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   ├───177
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   ├───180
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   ├───181
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   ├───183
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   ├───185
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   ├───186
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   ├───188
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   ├───190
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   ├───192
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   ├───194
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   ├───195
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   ├───200
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   ├───201
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   ├───203
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   ├───204
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   ├───206
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   ├───207
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   ├───208
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   ├───209
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   ├───211
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   ├───214
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   ├───216
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   ├───224
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   ├───226
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   ├───227
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   │               ├───connection
+│   │   │   │               ├───misc
+│   │   │   │               ├───over
+│   │   │   │               ├───tree
+│   │   │   │               └───types
+│   │   │   ├───229
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───lib
+│   │   │   ├───237
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   ├───238
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   │               ├───actions
+│   │   │   │               ├───animation
+│   │   │   │               ├───buttons
+│   │   │   │               ├───chart
+│   │   │   │               ├───file
+│   │   │   │               ├───misc
+│   │   │   │               │   └───notifications
+│   │   │   │               └───sql
+│   │   │   ├───239
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   │               └───eclipse
+│   │   │   ├───241
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   ├───245
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   ├───254
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   │               └───search
+│   │   │   ├───38
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───os
+│   │   │   │               └───win32
+│   │   │   │                   └───x86_64
+│   │   │   ├───65
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   │               └───full
+│   │   │   │                   └───etool16
+│   │   │   ├───66
+│   │   │   │   └───0
+│   │   │   │       └───.cp
+│   │   │   │           └───icons
+│   │   │   │               └───full
+│   │   │   │                   ├───elcl16
+│   │   │   │                   └───ovr16
+│   │   │   └───7
+│   │   │       └───0
+│   │   │           └───.cp
+│   │   │               └───com
+│   │   │                   └───sun
+│   │   │                       └───jna
+│   │   │                           └───win32-x86-64
+│   │   └───org.eclipse.update
+│   │       └───history
+│   ├───features
+│   │   ├───org.eclipse.ecf.core.feature_1.5.500.v20200217-1548
+│   │   │   └───META-INF
+│   │   ├───org.eclipse.ecf.core.ssl.feature_1.1.300.v20191023-2007
+│   │   │   └───META-INF
+│   │   ├───org.eclipse.ecf.filetransfer.feature_3.14.700.v20200217-0016
+│   │   │   └───META-INF
+│   │   ├───org.eclipse.ecf.filetransfer.httpclient45.feature_1.0.300.v20200217-0016
+│   │   │   └───META-INF
+│   │   ├───org.eclipse.ecf.filetransfer.ssl.feature_1.1.200.v20191024-1546
+│   │   │   └───META-INF
+│   │   ├───org.eclipse.equinox.p2.core.feature_1.6.500.v20200221-1022
+│   │   │   └───META-INF
+│   │   ├───org.eclipse.equinox.p2.discovery.feature_1.2.500.v20191213-1911
+│   │   │   └───META-INF
+│   │   ├───org.eclipse.equinox.p2.extras.feature_1.4.700.v20200221-1022
+│   │   │   └───META-INF
+│   │   ├───org.eclipse.equinox.p2.rcp.feature_1.4.700.v20200222-1600
+│   │   │   └───META-INF
+│   │   ├───org.eclipse.equinox.p2.user.ui_2.4.700.v20200222-1600
+│   │   │   └───META-INF
+│   │   ├───org.jkiss.dbeaver.ce.feature_7.3.0.202011291229
+│   │   │   └───META-INF
+│   │   ├───org.jkiss.dbeaver.db.feature_1.0.37.202011291229
+│   │   │   └───META-INF
+│   │   ├───org.jkiss.dbeaver.db.ui.feature_1.0.37.202011291229
+│   │   │   └───META-INF
+│   │   ├───org.jkiss.dbeaver.rcp.feature_2.1.121.202011291229
+│   │   │   └───META-INF
+│   │   ├───org.jkiss.dbeaver.runtime.feature_7.3.0.202011291229
+│   │   │   └───META-INF
+│   │   ├───org.jkiss.dbeaver.standalone.feature_7.3.0.202011291229
+│   │   │   └───META-INF
+│   │   └───org.jkiss.dbeaver.ui.feature_7.3.0.202011291229
+│   │       └───META-INF
+│   ├───jre
+│   │   ├───bin
+│   │   │   └───server
+│   │   ├───conf
+│   │   │   └───security
+│   │   │       └───policy
+│   │   │           ├───limited
+│   │   │           └───unlimited
+│   │   ├───legal
+│   │   │   ├───java.base
+│   │   │   ├───java.datatransfer
+│   │   │   ├───java.desktop
+│   │   │   ├───java.logging
+│   │   │   ├───java.management
+│   │   │   ├───java.management.rmi
+│   │   │   ├───java.naming
+│   │   │   ├───java.prefs
+│   │   │   ├───java.rmi
+│   │   │   ├───java.scripting
+│   │   │   ├───java.security.jgss
+│   │   │   ├───java.security.sasl
+│   │   │   ├───java.sql
+│   │   │   ├───java.sql.rowset
+│   │   │   ├───java.transaction.xa
+│   │   │   ├───java.xml
+│   │   │   ├───jdk.attach
+│   │   │   ├───jdk.charsets
+│   │   │   ├───jdk.crypto.cryptoki
+│   │   │   ├───jdk.crypto.ec
+│   │   │   ├───jdk.crypto.mscapi
+│   │   │   ├───jdk.internal.jvmstat
+│   │   │   ├───jdk.jcmd
+│   │   │   ├───jdk.management
+│   │   │   ├───jdk.net
+│   │   │   ├───jdk.pack
+│   │   │   ├───jdk.security.auth
+│   │   │   ├───jdk.security.jgss
+│   │   │   ├───jdk.unsupported
+│   │   │   ├───jdk.unsupported.desktop
+│   │   │   └───jdk.xml.dom
+│   │   └───lib
+│   │       ├───client
+│   │       ├───security
+│   │       └───server
+│   ├───licenses
+│   ├───p2
+│   │   └───org.eclipse.equinox.p2.engine
+│   │       ├───.settings
+│   │       └───profileRegistry
+│   │           └───DefaultProfile.profile
+│   │               └───.data
+│   │                   ├───.settings
+│   │                   └───org.eclipse.equinox.internal.p2.touchpoint.eclipse.actions
+│   └───plugins
+│       ├───org.eclipse.equinox.launcher.win32.win32.x86_64_1.1.1100.v20190907-0426
+│       │   └───META-INF
+│       ├───org.eclipse.ui.themes_1.2.900.v20200106-1021
+│       │   ├───css
+│       │   │   └───dark
+│       │   ├───images
+│       │   └───META-INF
+│       ├───org.jkiss.bundle.gis_2.0.3
+│       │   ├───lib
+│       │   └───META-INF
+│       │       └───maven
+│       │           └───org.jkiss.bundle
+│       │               └───org.jkiss.bundle.gis
+│       └───org.jkiss.bundle.jfreechart_1.0.20
+│           ├───lib
+│           └───META-INF
+│               └───maven
+│                   └───org.jkiss.bundle
+│                       └───org.jkiss.bundle.jfreechart
+├───depends
+├───Ditto
+│   ├───Addins
+│   ├───ClipCompare
+│   ├───DragFiles
+│   ├───Help
+│   ├───Language
+│   ├───ReceivedFiles
+│   └───Themes
+├───dsynchronize
+├───DuktoR6
+│   └───DuktoR6
+├───Fish-v3214
+│   ├───kdocin
+│   │   ├───jpg
+│   │   └───swf
+│   ├───kini
+│   ├───kpdf
+│   ├───kweb
+│   └───log
+│       └───cookie
+├───Foxit
+│   ├───advertisement
+│   ├───lang
+│   ├───plugins
+│   ├───Skins
+│   │   ├───Black
+│   │   │   ├───AppCaption
+│   │   │   ├───CaptionBar
+│   │   │   ├───MainWnd
+│   │   │   ├───Menu
+│   │   │   ├───ScrollBar
+│   │   │   │   ├───Horz
+│   │   │   │   └───Vert
+│   │   │   ├───Splitter
+│   │   │   ├───StartPage
+│   │   │   ├───StatusBar
+│   │   │   ├───Tabbar
+│   │   │   └───Toolbar
+│   │   ├───Blue
+│   │   │   ├───AppCaption
+│   │   │   ├───CaptionBar
+│   │   │   ├───MainWnd
+│   │   │   ├───Menu
+│   │   │   ├───ScrollBar
+│   │   │   │   ├───Horz
+│   │   │   │   └───Vert
+│   │   │   ├───Splitter
+│   │   │   ├───StartPage
+│   │   │   ├───StatusBar
+│   │   │   ├───Tabbar
+│   │   │   └───Toolbar
+│   │   ├───Orange
+│   │   │   ├───AppCaption
+│   │   │   ├───CaptionBar
+│   │   │   ├───MainWnd
+│   │   │   ├───Menu
+│   │   │   ├───ScrollBar
+│   │   │   │   ├───Horz
+│   │   │   │   └───Vert
+│   │   │   ├───Splitter
+│   │   │   ├───StartPage
+│   │   │   ├───StatusBar
+│   │   │   ├───Tabbar
+│   │   │   └───Toolbar
+│   │   └───Purple
+│   │       ├───AppCaption
+│   │       ├───CaptionBar
+│   │       ├───MainWnd
+│   │       ├───Menu
+│   │       ├───ScrollBar
+│   │       │   ├───Horz
+│   │       │   └───Vert
+│   │       ├───Splitter
+│   │       ├───StartPage
+│   │       ├───StatusBar
+│   │       ├───Tabbar
+│   │       └───Toolbar
+│   └───Start
+│       ├───css
+│       ├───Default
+│       ├───html
+│       ├───images
+│       │   └───ad
+│       └───js
+├───handle
+├───HAProxifier_527902
+├───idm
+│   └───IDM
+│       ├───Languages
+│       └───Toolbar
+├───ithink
+│   └───Keymaker
+├───launch
+│   ├───ANSI
+│   │   ├───Docs
+│   │   ├───Plugins
+│   │   └───Skins
+│   ├───X64
+│   │   ├───Data
+│   │   │   ├───ISVADMIN
+│   │   │   └───wangli
+│   │   ├───Docs
+│   │   ├───Languages
+│   │   ├───Plugins
+│   │   └───Skins
+│   └───X86
+│       ├───Docs
+│       ├───Languages
+│       ├───Plugins
+│       └───Skins
+├───nssm
+├───pandaocr
+│   ├───data
+│   ├───engine
+│   │   └───Win10OCR
+│   └───lib
+├───pp
+├───procdump
+├───ProcessMonitor
+├───pycharm-pojie
+│   └───ja-netfilter
+│       ├───config
+│       └───plugins
+├───radmin
+│   └───NewTrialStop.v2.3
+│       └───NewTrialStop.v2.3
+├───redis
+├───Regshot-1.9.0
+│   └───record
+├───renamer-7.3
+│   ├───Help
+│   ├───Languages
+│   │   ├───Flags
+│   │   └───LCLStrConsts
+│   ├───Presets
+│   ├───Scripts
+│   └───Translits
+├───sfk
+├───Shadowsocks
+│   ├───fr
+│   ├───ja
+│   ├───ko
+│   ├───ru
+│   ├───ss_win_temp
+│   ├───zh-Hans
+│   └───zh-Hant
+├───ShadowsocksR-win-4.9.2
+│   ├───temp
+│   └───templates
+├───simple 1.2.0
+│   ├───iconengines
+│   ├───imageformats
+│   ├───platforms
+│   └───translations
+├───Snap2Html
+├───snipaste
+│   ├───audio
+│   ├───crashes
+│   ├───history
+│   │   ├───KLX5QF
+│   │   ├───snip
+│   │   └───temp
+│   ├───iconengines
+│   ├───imageformats
+│   ├───lang
+│   ├───networkinformation
+│   ├───platforms
+│   ├───printsupport
+│   ├───sound
+│   ├───styles
+│   └───tls
+├───system_tools
+│   ├───Autoruns
+│   ├───Handle
+│   ├───PortMon
+│   ├───ProcessExplorer
+│   └───PSTools
+├───v2rayn
+│   ├───doc
+│   ├───guiLogs
+│   ├───v2ray_win_temp
+│   └───zh-Hans
+├───vscode
+│   ├───bin
+│   ├───locales
+│   ├───policies
+│   │   ├───cs-cz
+│   │   ├───de-de
+│   │   ├───en-us
+│   │   ├───es-es
+│   │   ├───fr-fr
+│   │   ├───it-it
+│   │   ├───ja-jp
+│   │   ├───ko-kr
+│   │   ├───pl-pl
+│   │   ├───pt-br
+│   │   ├───ru-ru
+│   │   ├───tr-tr
+│   │   ├───zh-cn
+│   │   └───zh-tw
+│   ├───resources
+│   │   └───app
+│   │       ├───extensions
+│   │       │   ├───bat
+│   │       │   │   ├───snippets
+│   │       │   │   └───syntaxes
+│   │       │   ├───clojure
+│   │       │   │   └───syntaxes
+│   │       │   ├───coffeescript
+│   │       │   │   ├───snippets
+│   │       │   │   └───syntaxes
+│   │       │   ├───configuration-editing
+│   │       │   │   ├───dist
+│   │       │   │   ├───images
+│   │       │   │   └───schemas
+│   │       │   ├───cpp
+│   │       │   │   ├───snippets
+│   │       │   │   └───syntaxes
+│   │       │   ├───csharp
+│   │       │   │   ├───snippets
+│   │       │   │   └───syntaxes
+│   │       │   ├───css
+│   │       │   │   └───syntaxes
+│   │       │   ├───css-language-features
+│   │       │   │   ├───client
+│   │       │   │   │   └───dist
+│   │       │   │   │       └───node
+│   │       │   │   ├───icons
+│   │       │   │   ├───schemas
+│   │       │   │   └───server
+│   │       │   │       └───dist
+│   │       │   │           └───node
+│   │       │   ├───dart
+│   │       │   │   └───syntaxes
+│   │       │   ├───debug-auto-launch
+│   │       │   │   ├───.vscode
+│   │       │   │   ├───dist
+│   │       │   │   └───media
+│   │       │   ├───debug-server-ready
+│   │       │   │   ├───dist
+│   │       │   │   └───media
+│   │       │   ├───diff
+│   │       │   │   └───syntaxes
+│   │       │   ├───docker
+│   │       │   │   └───syntaxes
+│   │       │   ├───emmet
+│   │       │   │   ├───dist
+│   │       │   │   │   └───node
+│   │       │   │   └───images
+│   │       │   ├───extension-editing
+│   │       │   │   ├───dist
+│   │       │   │   └───images
+│   │       │   ├───fsharp
+│   │       │   │   ├───snippets
+│   │       │   │   └───syntaxes
+│   │       │   ├───git
+│   │       │   │   ├───dist
+│   │       │   │   └───resources
+│   │       │   │       └───icons
+│   │       │   │           ├───dark
+│   │       │   │           └───light
+│   │       │   ├───git-base
+│   │       │   │   ├───dist
+│   │       │   │   ├───languages
+│   │       │   │   ├───resources
+│   │       │   │   │   └───icons
+│   │       │   │   └───syntaxes
+│   │       │   ├───github
+│   │       │   │   ├───dist
+│   │       │   │   ├───images
+│   │       │   │   └───testWorkspace
+│   │       │   │       ├───docs
+│   │       │   │       │   └───PULL_REQUEST_TEMPLATE
+│   │       │   │       └───PULL_REQUEST_TEMPLATE
+│   │       │   ├───github-authentication
+│   │       │   │   ├───dist
+│   │       │   │   ├───images
+│   │       │   │   └───media
+│   │       │   ├───go
+│   │       │   │   └───syntaxes
+│   │       │   ├───groovy
+│   │       │   │   ├───snippets
+│   │       │   │   └───syntaxes
+│   │       │   ├───grunt
+│   │       │   │   ├───dist
+│   │       │   │   └───images
+│   │       │   ├───gulp
+│   │       │   │   ├───dist
+│   │       │   │   └───images
+│   │       │   ├───handlebars
+│   │       │   │   └───syntaxes
+│   │       │   ├───hlsl
+│   │       │   │   └───syntaxes
+│   │       │   ├───html
+│   │       │   │   ├───snippets
+│   │       │   │   └───syntaxes
+│   │       │   ├───html-language-features
+│   │       │   │   ├───client
+│   │       │   │   │   └───dist
+│   │       │   │   │       └───node
+│   │       │   │   ├───icons
+│   │       │   │   ├───schemas
+│   │       │   │   └───server
+│   │       │   │       ├───dist
+│   │       │   │       │   └───node
+│   │       │   │       └───lib
+│   │       │   ├───ini
+│   │       │   │   └───syntaxes
+│   │       │   ├───ipynb
+│   │       │   │   ├───dist
+│   │       │   │   ├───media
+│   │       │   │   └───notebook-out
+│   │       │   ├───jake
+│   │       │   │   ├───dist
+│   │       │   │   └───images
+│   │       │   ├───java
+│   │       │   │   ├───snippets
+│   │       │   │   └───syntaxes
+│   │       │   ├───javascript
+│   │       │   │   ├───snippets
+│   │       │   │   └───syntaxes
+│   │       │   ├───json
+│   │       │   │   └───syntaxes
+│   │       │   ├───json-language-features
+│   │       │   │   ├───client
+│   │       │   │   │   └───dist
+│   │       │   │   │       └───node
+│   │       │   │   ├───icons
+│   │       │   │   └───server
+│   │       │   │       └───dist
+│   │       │   │           └───node
+│   │       │   ├───julia
+│   │       │   │   └───syntaxes
+│   │       │   ├───latex
+│   │       │   │   └───syntaxes
+│   │       │   ├───less
+│   │       │   │   ├───build
+│   │       │   │   └───syntaxes
+│   │       │   ├───log
+│   │       │   │   └───syntaxes
+│   │       │   ├───lua
+│   │       │   │   └───syntaxes
+│   │       │   ├───make
+│   │       │   │   └───syntaxes
+│   │       │   ├───markdown-basics
+│   │       │   │   ├───snippets
+│   │       │   │   └───syntaxes
+│   │       │   ├───markdown-language-features
+│   │       │   │   ├───dist
+│   │       │   │   ├───media
+│   │       │   │   ├───notebook-out
+│   │       │   │   └───schemas
+│   │       │   ├───markdown-math
+│   │       │   │   ├───dist
+│   │       │   │   ├───notebook-out
+│   │       │   │   │   └───fonts
+│   │       │   │   ├───preview-styles
+│   │       │   │   └───syntaxes
+│   │       │   ├───media-preview
+│   │       │   │   ├───dist
+│   │       │   │   └───media
+│   │       │   ├───merge-conflict
+│   │       │   │   ├───dist
+│   │       │   │   └───media
+│   │       │   ├───microsoft-authentication
+│   │       │   │   ├───dist
+│   │       │   │   └───media
+│   │       │   ├───ms-vscode.js-debug
+│   │       │   │   ├───resources
+│   │       │   │   │   ├───dark
+│   │       │   │   │   ├───light
+│   │       │   │   │   └───readme
+│   │       │   │   └───src
+│   │       │   │       ├───targets
+│   │       │   │       │   └───node
+│   │       │   │       ├───ui
+│   │       │   │       └───vendor
+│   │       │   ├───ms-vscode.js-debug-companion
+│   │       │   │   ├───out
+│   │       │   │   └───resources
+│   │       │   ├───ms-vscode.vscode-js-profile-table
+│   │       │   │   ├───out
+│   │       │   │   └───resources
+│   │       │   ├───node_modules
+│   │       │   │   ├───@parcel
+│   │       │   │   │   └───node-addon-api
+│   │       │   │   └───typescript
+│   │       │   │       └───lib
+│   │       │   │           ├───cs
+│   │       │   │           ├───de
+│   │       │   │           ├───es
+│   │       │   │           ├───fr
+│   │       │   │           ├───it
+│   │       │   │           ├───ja
+│   │       │   │           ├───ko
+│   │       │   │           ├───pl
+│   │       │   │           ├───pt-br
+│   │       │   │           ├───ru
+│   │       │   │           ├───tr
+│   │       │   │           ├───zh-cn
+│   │       │   │           └───zh-tw
+│   │       │   ├───notebook-renderers
+│   │       │   │   ├───media
+│   │       │   │   └───renderer-out
+│   │       │   ├───npm
+│   │       │   │   ├───dist
+│   │       │   │   └───images
+│   │       │   ├───objective-c
+│   │       │   │   └───syntaxes
+│   │       │   ├───perl
+│   │       │   │   └───syntaxes
+│   │       │   ├───php
+│   │       │   │   ├───snippets
+│   │       │   │   └───syntaxes
+│   │       │   ├───php-language-features
+│   │       │   │   ├───dist
+│   │       │   │   └───icons
+│   │       │   ├───powershell
+│   │       │   │   └───syntaxes
+│   │       │   ├───pug
+│   │       │   │   └───syntaxes
+│   │       │   ├───python
+│   │       │   │   └───syntaxes
+│   │       │   ├───r
+│   │       │   │   └───syntaxes
+│   │       │   ├───razor
+│   │       │   │   ├───build
+│   │       │   │   └───syntaxes
+│   │       │   ├───references-view
+│   │       │   │   ├───dist
+│   │       │   │   └───media
+│   │       │   ├───restructuredtext
+│   │       │   │   └───syntaxes
+│   │       │   ├───ruby
+│   │       │   │   └───syntaxes
+│   │       │   ├───rust
+│   │       │   │   ├───build
+│   │       │   │   └───syntaxes
+│   │       │   ├───scss
+│   │       │   │   └───syntaxes
+│   │       │   ├───search-result
+│   │       │   │   ├───dist
+│   │       │   │   │   └───media
+│   │       │   │   ├───images
+│   │       │   │   └───syntaxes
+│   │       │   ├───shaderlab
+│   │       │   │   └───syntaxes
+│   │       │   ├───shellscript
+│   │       │   │   └───syntaxes
+│   │       │   ├───simple-browser
+│   │       │   │   ├───dist
+│   │       │   │   └───media
+│   │       │   ├───sql
+│   │       │   │   └───syntaxes
+│   │       │   ├───swift
+│   │       │   │   ├───snippets
+│   │       │   │   └───syntaxes
+│   │       │   ├───terminal-suggest
+│   │       │   │   ├───dist
+│   │       │   │   │   └───media
+│   │       │   │   ├───scripts
+│   │       │   │   └───testWorkspace
+│   │       │   │       └───parent
+│   │       │   │           └───home
+│   │       │   │               └───child
+│   │       │   ├───theme-abyss
+│   │       │   │   └───themes
+│   │       │   ├───theme-defaults
+│   │       │   │   ├───fileicons
+│   │       │   │   │   └───images
+│   │       │   │   └───themes
+│   │       │   ├───theme-kimbie-dark
+│   │       │   │   └───themes
+│   │       │   ├───theme-monokai
+│   │       │   │   └───themes
+│   │       │   ├───theme-monokai-dimmed
+│   │       │   │   └───themes
+│   │       │   ├───theme-quietlight
+│   │       │   │   └───themes
+│   │       │   ├───theme-red
+│   │       │   │   └───themes
+│   │       │   ├───theme-seti
+│   │       │   │   └───icons
+│   │       │   ├───theme-solarized-dark
+│   │       │   │   └───themes
+│   │       │   ├───theme-solarized-light
+│   │       │   │   └───themes
+│   │       │   ├───theme-tomorrow-night-blue
+│   │       │   │   └───themes
+│   │       │   ├───tunnel-forwarding
+│   │       │   │   ├───.vscode
+│   │       │   │   ├───dist
+│   │       │   │   └───media
+│   │       │   ├───typescript-basics
+│   │       │   │   ├───snippets
+│   │       │   │   └───syntaxes
+│   │       │   ├───typescript-language-features
+│   │       │   │   ├───dist
+│   │       │   │   ├───media
+│   │       │   │   ├───resources
+│   │       │   │   │   └───walkthroughs
+│   │       │   │   └───schemas
+│   │       │   ├───vb
+│   │       │   │   ├───snippets
+│   │       │   │   └───syntaxes
+│   │       │   ├───xml
+│   │       │   │   └───syntaxes
+│   │       │   └───yaml
+│   │       │       ├───build
+│   │       │       └───syntaxes
+│   │       ├───licenses
+│   │       ├───node_modules
+│   │       │   ├───@microsoft
+│   │       │   │   ├───1ds-core-js
+│   │       │   │   │   ├───bundle
+│   │       │   │   │   ├───dist
+│   │       │   │   │   └───dist-esm
+│   │       │   │   │       └───src
+│   │       │   │   ├───1ds-post-js
+│   │       │   │   │   ├───bundle
+│   │       │   │   │   ├───dist
+│   │       │   │   │   └───dist-esm
+│   │       │   │   │       └───src
+│   │       │   │   │           └───typings
+│   │       │   │   ├───applicationinsights-core-js
+│   │       │   │   │   ├───browser
+│   │       │   │   │   ├───dist
+│   │       │   │   │   ├───dist-esm
+│   │       │   │   │   │   ├───JavaScriptSDK
+│   │       │   │   │   │   ├───JavaScriptSDK.Enums
+│   │       │   │   │   │   └───JavaScriptSDK.Interfaces
+│   │       │   │   │   └───types
+│   │       │   │   ├───applicationinsights-shims
+│   │       │   │   │   ├───browser
+│   │       │   │   │   ├───dist
+│   │       │   │   │   │   ├───esm
+│   │       │   │   │   │   └───umd
+│   │       │   │   │   └───dist-esm
+│   │       │   │   └───dynamicproto-js
+│   │       │   │       ├───lib
+│   │       │   │       │   └───dist
+│   │       │   │       │       ├───amd
+│   │       │   │       │       ├───cjs
+│   │       │   │       │       ├───esm
+│   │       │   │       │       ├───iife
+│   │       │   │       │       ├───node
+│   │       │   │       │       ├───system
+│   │       │   │       │       └───umd
+│   │       │   │       └───tools
+│   │       │   │           └───rollup
+│   │       │   │               ├───esm
+│   │       │   │               └───node
+│   │       │   ├───@parcel
+│   │       │   │   ├───node-addon-api
+│   │       │   │   │   └───Release
+│   │       │   │   │       └───obj
+│   │       │   │   │           └───nothing
+│   │       │   │   │               ├───node-addon-api
+│   │       │   │   │               └───nothing.tlog
+│   │       │   │   └───watcher
+│   │       │   │       ├───build
+│   │       │   │       │   └───Release
+│   │       │   │       ├───node_modules
+│   │       │   │       │   └───detect-libc
+│   │       │   │       │       ├───bin
+│   │       │   │       │       └───lib
+│   │       │   │       └───scripts
+│   │       │   ├───@tootallnate
+│   │       │   │   └───once
+│   │       │   │       └───dist
+│   │       │   ├───@types
+│   │       │   │   └───semver
+│   │       │   ├───@vscode
+│   │       │   │   ├───deviceid
+│   │       │   │   │   ├───azure-pipelines
+│   │       │   │   │   ├───build
+│   │       │   │   │   │   └───Release
+│   │       │   │   │   └───dist
+│   │       │   │   ├───iconv-lite-umd
+│   │       │   │   │   └───lib
+│   │       │   │   ├───node-addon-api
+│   │       │   │   │   └───Release
+│   │       │   │   │       └───obj
+│   │       │   │   │           └───node_addon_api_except
+│   │       │   │   │               ├───node_add.9DB6C6F2.tlog
+│   │       │   │   │               ├───node_add.A8A597A8.tlog
+│   │       │   │   │               └───node_add.EA6A8990.tlog
+│   │       │   │   ├───policy-watcher
+│   │       │   │   │   └───build
+│   │       │   │   │       └───Release
+│   │       │   │   ├───proxy-agent
+│   │       │   │   │   └───out
+│   │       │   │   ├───ripgrep
+│   │       │   │   │   ├───bin
+│   │       │   │   │   ├───build
+│   │       │   │   │   ├───lib
+│   │       │   │   │   └───node_modules
+│   │       │   │   │       └───yauzl
+│   │       │   │   ├───spdlog
+│   │       │   │   │   ├───azure-pipelines
+│   │       │   │   │   └───build
+│   │       │   │   │       └───Release
+│   │       │   │   ├───sqlite3
+│   │       │   │   │   ├───build
+│   │       │   │   │   │   └───Release
+│   │       │   │   │   └───lib
+│   │       │   │   ├───sudo-prompt
+│   │       │   │   ├───tree-sitter-wasm
+│   │       │   │   │   └───wasm
+│   │       │   │   ├───vsce-sign
+│   │       │   │   │   ├───bin
+│   │       │   │   │   └───src
+│   │       │   │   ├───vscode-languagedetection
+│   │       │   │   │   ├───cli
+│   │       │   │   │   ├───dist
+│   │       │   │   │   │   └───lib
+│   │       │   │   │   └───model
+│   │       │   │   ├───windows-ca-certs
+│   │       │   │   │   └───build
+│   │       │   │   │       └───Release
+│   │       │   │   ├───windows-mutex
+│   │       │   │   │   └───build
+│   │       │   │   │       └───Release
+│   │       │   │   ├───windows-process-tree
+│   │       │   │   │   ├───build
+│   │       │   │   │   │   └───Release
+│   │       │   │   │   └───lib
+│   │       │   │   └───windows-registry
+│   │       │   │       ├───build
+│   │       │   │       │   └───Release
+│   │       │   │       └───dist
+│   │       │   ├───@xterm
+│   │       │   │   ├───addon-clipboard
+│   │       │   │   │   └───lib
+│   │       │   │   ├───addon-image
+│   │       │   │   │   ├───lib
+│   │       │   │   │   └───out
+│   │       │   │   ├───addon-ligatures
+│   │       │   │   │   └───lib
+│   │       │   │   ├───addon-progress
+│   │       │   │   │   └───lib
+│   │       │   │   ├───addon-search
+│   │       │   │   │   └───lib
+│   │       │   │   ├───addon-serialize
+│   │       │   │   │   └───lib
+│   │       │   │   ├───addon-unicode11
+│   │       │   │   │   └───lib
+│   │       │   │   ├───addon-webgl
+│   │       │   │   │   └───lib
+│   │       │   │   ├───headless
+│   │       │   │   │   └───lib-headless
+│   │       │   │   └───xterm
+│   │       │   │       ├───css
+│   │       │   │       └───lib
+│   │       │   ├───agent-base
+│   │       │   │   └───dist
+│   │       │   ├───base64-js
+│   │       │   ├───bindings
+│   │       │   ├───bl
+│   │       │   ├───braces
+│   │       │   │   └───lib
+│   │       │   ├───buffer
+│   │       │   ├───buffer-crc32
+│   │       │   ├───chownr
+│   │       │   ├───chrome-remote-interface
+│   │       │   │   ├───bin
+│   │       │   │   ├───lib
+│   │       │   │   └───node_modules
+│   │       │   │       ├───commander
+│   │       │   │       └───ws
+│   │       │   │           └───lib
+│   │       │   ├───debug
+│   │       │   │   └───src
+│   │       │   ├───decompress-response
+│   │       │   │   └───node_modules
+│   │       │   │       └───mimic-response
+│   │       │   ├───deep-extend
+│   │       │   │   └───lib
+│   │       │   ├───define-lazy-prop
+│   │       │   ├───detect-libc
+│   │       │   │   └───lib
+│   │       │   ├───end-of-stream
+│   │       │   ├───expand-template
+│   │       │   ├───fd-slicer
+│   │       │   ├───file-uri-to-path
+│   │       │   ├───fill-range
+│   │       │   ├───font-finder
+│   │       │   │   └───dist
+│   │       │   │       └───tables
+│   │       │   ├───font-ligatures
+│   │       │   │   ├───dist
+│   │       │   │   │   └───processors
+│   │       │   │   └───node_modules
+│   │       │   │       ├───lru-cache
+│   │       │   │       └───yallist
+│   │       │   ├───fs-constants
+│   │       │   ├───fs-extra
+│   │       │   │   └───lib
+│   │       │   │       ├───copy
+│   │       │   │       ├───empty
+│   │       │   │       ├───ensure
+│   │       │   │       ├───fs
+│   │       │   │       ├───json
+│   │       │   │       ├───mkdirs
+│   │       │   │       ├───move
+│   │       │   │       ├───output-file
+│   │       │   │       ├───path-exists
+│   │       │   │       ├───remove
+│   │       │   │       └───util
+│   │       │   ├───fs-minipass
+│   │       │   │   └───node_modules
+│   │       │   │       ├───minipass
+│   │       │   │       └───yallist
+│   │       │   ├───get-system-fonts
+│   │       │   │   └───dist
+│   │       │   ├───github-from-package
+│   │       │   ├───graceful-fs
+│   │       │   ├───http-proxy-agent
+│   │       │   │   └───dist
+│   │       │   ├───https-proxy-agent
+│   │       │   │   └───dist
+│   │       │   ├───ieee754
+│   │       │   ├───inherits
+│   │       │   ├───ini
+│   │       │   ├───ip-address
+│   │       │   │   └───dist
+│   │       │   │       ├───v4
+│   │       │   │       └───v6
+│   │       │   ├───is-docker
+│   │       │   ├───is-extglob
+│   │       │   ├───is-glob
+│   │       │   ├───is-number
+│   │       │   ├───is-wsl
+│   │       │   ├───js-base64
+│   │       │   ├───jsbn
+│   │       │   ├───jschardet
+│   │       │   │   ├───dist
+│   │       │   │   └───scripts
+│   │       │   ├───jsonfile
+│   │       │   ├───kerberos
+│   │       │   │   ├───build
+│   │       │   │   │   └───Release
+│   │       │   │   └───lib
+│   │       │   │       └───auth_processes
+│   │       │   ├───micromatch
+│   │       │   ├───minimist
+│   │       │   ├───minipass
+│   │       │   ├───minizlib
+│   │       │   │   └───node_modules
+│   │       │   │       ├───minipass
+│   │       │   │       └───yallist
+│   │       │   ├───mkdirp
+│   │       │   │   ├───bin
+│   │       │   │   └───lib
+│   │       │   ├───mkdirp-classic
+│   │       │   ├───ms
+│   │       │   ├───napi-build-utils
+│   │       │   ├───native-is-elevated
+│   │       │   │   ├───build
+│   │       │   │   │   └───Release
+│   │       │   │   └───tst
+│   │       │   ├───native-keymap
+│   │       │   │   └───build
+│   │       │   │       └───Release
+│   │       │   ├───native-watchdog
+│   │       │   │   └───build
+│   │       │   │       └───Release
+│   │       │   ├───node-abi
+│   │       │   │   └───scripts
+│   │       │   ├───node-gyp-build
+│   │       │   ├───node-pty
+│   │       │   │   ├───build
+│   │       │   │   │   └───Release
+│   │       │   │   │       └───conpty
+│   │       │   │   ├───lib
+│   │       │   │   │   ├───shared
+│   │       │   │   │   └───worker
+│   │       │   │   └───node-addon-api
+│   │       │   │       └───Release
+│   │       │   │           └───obj
+│   │       │   │               └───node_addon_api_except
+│   │       │   │                   └───node_add.811E9A8B.tlog
+│   │       │   ├───once
+│   │       │   ├───open
+│   │       │   ├───opentype.js
+│   │       │   │   ├───bin
+│   │       │   │   ├───dist
+│   │       │   │   ├───externs
+│   │       │   │   └───src
+│   │       │   │       └───tables
+│   │       │   ├───pend
+│   │       │   ├───picomatch
+│   │       │   │   └───lib
+│   │       │   ├───promise-stream-reader
+│   │       │   │   └───dist
+│   │       │   ├───proxy-from-env
+│   │       │   ├───rc
+│   │       │   │   ├───lib
+│   │       │   │   └───node_modules
+│   │       │   │       └───strip-json-comments
+│   │       │   ├───readable-stream
+│   │       │   │   └───lib
+│   │       │   │       └───internal
+│   │       │   │           └───streams
+│   │       │   ├───safe-buffer
+│   │       │   ├───semver
+│   │       │   │   ├───bin
+│   │       │   │   ├───classes
+│   │       │   │   ├───functions
+│   │       │   │   ├───internal
+│   │       │   │   └───ranges
+│   │       │   ├───simple-concat
+│   │       │   ├───simple-get
+│   │       │   ├───smart-buffer
+│   │       │   │   └───build
+│   │       │   ├───socks
+│   │       │   │   └───build
+│   │       │   │       ├───client
+│   │       │   │       └───common
+│   │       │   ├───socks-proxy-agent
+│   │       │   │   └───dist
+│   │       │   ├───sprintf-js
+│   │       │   │   ├───dist
+│   │       │   │   └───src
+│   │       │   ├───string_decoder
+│   │       │   │   └───lib
+│   │       │   ├───tar
+│   │       │   │   ├───lib
+│   │       │   │   └───node_modules
+│   │       │   │       └───yallist
+│   │       │   ├───tas-client-umd
+│   │       │   │   └───lib
+│   │       │   ├───tiny-inflate
+│   │       │   ├───to-regex-range
+│   │       │   ├───tslib
+│   │       │   │   └───modules
+│   │       │   ├───tunnel-agent
+│   │       │   ├───undici
+│   │       │   │   ├───lib
+│   │       │   │   │   ├───api
+│   │       │   │   │   ├───cache
+│   │       │   │   │   ├───core
+│   │       │   │   │   ├───dispatcher
+│   │       │   │   │   ├───handler
+│   │       │   │   │   ├───interceptor
+│   │       │   │   │   ├───llhttp
+│   │       │   │   │   ├───mock
+│   │       │   │   │   ├───util
+│   │       │   │   │   └───web
+│   │       │   │   │       ├───cache
+│   │       │   │   │       ├───cookies
+│   │       │   │   │       ├───eventsource
+│   │       │   │   │       ├───fetch
+│   │       │   │   │       └───websocket
+│   │       │   │   │           └───stream
+│   │       │   │   └───scripts
+│   │       │   ├───universalify
+│   │       │   ├───util-deprecate
+│   │       │   ├───uuid
+│   │       │   │   └───dist
+│   │       │   │       ├───bin
+│   │       │   │       ├───commonjs-browser
+│   │       │   │       ├───esm-browser
+│   │       │   │       └───esm-node
+│   │       │   ├───v8-inspect-profiler
+│   │       │   ├───vscode-oniguruma
+│   │       │   │   └───release
+│   │       │   ├───vscode-regexp-languagedetection
+│   │       │   │   └───dist
+│   │       │   ├───vscode-regexpp
+│   │       │   ├───vscode-textmate
+│   │       │   │   └───release
+│   │       │   ├───vsda
+│   │       │   │   ├───build
+│   │       │   │   │   └───Release
+│   │       │   │   └───rust
+│   │       │   │       └───web
+│   │       │   ├───windows-foreground-love
+│   │       │   │   └───build
+│   │       │   │       └───Release
+│   │       │   ├───wrappy
+│   │       │   ├───yauzl
+│   │       │   └───yazl
+│   │       ├───node_modules.asar.unpacked
+│   │       │   └───vsda
+│   │       │       ├───build
+│   │       │       │   └───Release
+│   │       │       └───rust
+│   │       │           └───web
+│   │       ├───out
+│   │       │   ├───media
+│   │       │   ├───vs
+│   │       │   │   ├───base
+│   │       │   │   │   ├───node
+│   │       │   │   │   └───parts
+│   │       │   │   │       └───sandbox
+│   │       │   │   │           └───electron-sandbox
+│   │       │   │   ├───code
+│   │       │   │   │   ├───electron-sandbox
+│   │       │   │   │   │   ├───processExplorer
+│   │       │   │   │   │   └───workbench
+│   │       │   │   │   ├───electron-utility
+│   │       │   │   │   │   └───sharedProcess
+│   │       │   │   │   └───node
+│   │       │   │   ├───editor
+│   │       │   │   │   └───common
+│   │       │   │   │       ├───languages
+│   │       │   │   │       │   └───highlights
+│   │       │   │   │       └───services
+│   │       │   │   ├───platform
+│   │       │   │   │   ├───accessibilitySignal
+│   │       │   │   │   │   └───browser
+│   │       │   │   │   │       └───media
+│   │       │   │   │   ├───files
+│   │       │   │   │   │   └───node
+│   │       │   │   │   │       └───watcher
+│   │       │   │   │   ├───profiling
+│   │       │   │   │   │   └───electron-sandbox
+│   │       │   │   │   └───terminal
+│   │       │   │   │       └───node
+│   │       │   │   └───workbench
+│   │       │   │       ├───api
+│   │       │   │       │   ├───node
+│   │       │   │       │   └───worker
+│   │       │   │       ├───browser
+│   │       │   │       │   └───parts
+│   │       │   │       │       └───editor
+│   │       │   │       │           └───media
+│   │       │   │       ├───contrib
+│   │       │   │       │   ├───debug
+│   │       │   │       │   │   ├───browser
+│   │       │   │       │   │   │   └───media
+│   │       │   │       │   │   └───node
+│   │       │   │       │   ├───extensions
+│   │       │   │       │   │   └───browser
+│   │       │   │       │   │       └───media
+│   │       │   │       │   ├───externalTerminal
+│   │       │   │       │   │   └───node
+│   │       │   │       │   ├───issue
+│   │       │   │       │   │   └───electron-sandbox
+│   │       │   │       │   ├───notebook
+│   │       │   │       │   │   └───common
+│   │       │   │       │   │       └───services
+│   │       │   │       │   ├───output
+│   │       │   │       │   │   └───common
+│   │       │   │       │   ├───terminal
+│   │       │   │       │   │   └───common
+│   │       │   │       │   │       └───scripts
+│   │       │   │       │   │           └───fish_xdg_data
+│   │       │   │       │   │               └───fish
+│   │       │   │       │   │                   └───vendor_conf.d
+│   │       │   │       │   ├───webview
+│   │       │   │       │   │   └───browser
+│   │       │   │       │   │       └───pre
+│   │       │   │       │   └───welcomeGettingStarted
+│   │       │   │       │       └───common
+│   │       │   │       │           └───media
+│   │       │   │       │               └───notebookThemes
+│   │       │   │       └───services
+│   │       │   │           ├───extensionManagement
+│   │       │   │           │   └───common
+│   │       │   │           │       └───media
+│   │       │   │           ├───extensions
+│   │       │   │           │   └───worker
+│   │       │   │           ├───languageDetection
+│   │       │   │           │   └───browser
+│   │       │   │           ├───search
+│   │       │   │           │   └───worker
+│   │       │   │           └───textMate
+│   │       │   │               └───browser
+│   │       │   │                   └───backgroundTokenization
+│   │       │   │                       └───worker
+│   │       │   └───vscode-dts
+│   │       └───resources
+│   │           └───win32
+│   └───tools
+├───Windows 10 Manager
+│   ├───DiskAnalyzerXML
+│   └───Language
+├───XYplorer
+│   └───Data
+│       ├───AutoBackup
+│       │   └───24
+│       ├───Catalogs
+│       ├───FindTemplates
+│       ├───Icons
+│       ├───NewItems
+│       │   └───新建
+│       ├───Panes
+│       │   ├───1
+│       │   │   └───t
+│       │   └───2
+│       │       └───t
+│       ├───Scripts
+│       ├───Temp
+│       └───Thumbnails
+├───快速启动
+│   └───BackUp
+├───截图
+│   └───Languages
+└───文本处理工具 V1.5
+    └───Images
